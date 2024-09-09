@@ -1,4 +1,4 @@
-public class Reservearraywithswaping {
+public class Reversearraywithswaping {
     public static void main(String[] args) {
         int arr[] = {1,2,3,4};
         revarr(arr);
